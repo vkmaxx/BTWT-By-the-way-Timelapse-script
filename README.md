@@ -1,6 +1,9 @@
 # BTWT-By-the-way-Timelapse-script
 By the way Timelapse (aka BTWT ) is script for creating smooth videos without interrupting printer moves
 
+See it in action:
+https://www.youtube.com/watch?v=VYKRAc1gTaM
+
 By The Way Timelapse is a simple G-code post-processor designed to create smoother and more stable timelapse videos of 3D prints.
 
 BTWT analyzes an existing G-code file and automatically selects suitable moments and print-head positions for taking timelapse frames. The goal is to reduce sudden changes in the position of the print and print head between consecutive frames.
