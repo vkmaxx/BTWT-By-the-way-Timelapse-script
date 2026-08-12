@@ -1,0 +1,24 @@
+Copyright (c) 2026 Maxx Preston
+
+This software is provided as freeware.
+
+You are free to:
+- Use this software for personal or commercial purposes
+- Copy and redistribute the software in its original, unmodified form
+
+You may not:
+- Modify the software
+- Sell the software
+- Claim authorship of the software
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES 
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND 
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR 
+ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF 
+THIS SOFTWARE.
+
+For more information, please visit: https://www.maxxpreston.pl
+
+If you like this software and would like to support its further 
+development, you are welcome to make a voluntary contribution.
